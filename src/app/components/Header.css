@@ -1,0 +1,21 @@
+.header-links {
+    padding: 20px;
+}
+
+.logo-image img {
+    width: 7rem;
+    height: auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-container a {
+    text-decoration: none;
+    color: black;
+}

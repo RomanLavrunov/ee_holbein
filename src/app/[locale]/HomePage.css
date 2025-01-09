@@ -1,0 +1,13 @@
+.image-container img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80vw;
+    height: auto;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

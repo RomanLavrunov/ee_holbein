@@ -1,0 +1,14 @@
+{
+    "HomePage": {
+        "header": {
+            "about": "Meist",
+            "products": "Tootevalik",
+            "news": "Uudised",
+            "contacts": "Kontaktid"
+        }
+    },
+    "AboutPage": {
+        "title": "Meist",
+        "description": "Lisateave meie ettevõtte kohta."
+    }
+}

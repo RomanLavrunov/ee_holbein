@@ -1,0 +1,14 @@
+{
+    "HomePage": {
+        "header": {
+            "about": "О Нас",
+            "products": "Ассортимент",
+            "news": "Новости",
+            "contacts": "Контакты"
+        }
+    },
+    "AboutPage": {
+        "title": "О Нас",
+        "description": "Дополнительная информация."
+    }
+}
