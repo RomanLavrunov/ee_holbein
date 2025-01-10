@@ -1,14 +1,24 @@
 {
     "HomePage": {
         "header": {
-            "about": "О Нас",
-            "products": "Ассортимент",
-            "news": "Новости",
-            "contacts": "Контакты"
+            "about": "О НАС",
+            "products": "АССОРТИМЕНТ",
+            "news": "НОВОСТИ",
+            "contacts": "КОНТАКТЫ"
         }
     },
     "AboutPage": {
         "title": "О Нас",
         "description": "Дополнительная информация."
+    },
+    "ContactPage": {
+        "title": "Свяжитесь с нами",
+        "name": "Имя",
+        "email": "Электронная почта",
+        "message": "Сообщение",
+        "send": "Отправить"         
+    },
+    "ProductPage": {
+        "title": "Товары"
     }
 }

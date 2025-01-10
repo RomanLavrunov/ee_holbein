@@ -9,7 +9,7 @@ const FooterContainer = styled.footer`
 export default function Footer() {
   return (
     <FooterContainer>
-      <p>&copy; {new Date().getFullYear()} Holbein. All Rights Reserved.</p>
+      <p>&copy; 2024 Holbein. All Rights Reserved.</p>
     </FooterContainer>
   );
 }

@@ -1,14 +1,25 @@
 {
     "HomePage": {
         "header": {
-            "about": "About us",
-            "products": "Products",
-            "news": "News",
-            "contacts": "Contacts"
+            "about": "ABOUT US",
+            "products": "PRODUCTS",
+            "news": "NEWS",
+            "contacts": "CONTACTS"
         }
     },
     "AboutPage": {
         "title": "About Us",
         "description": "Learn more about our company."
+    },
+    "ContactPage": {
+        "title": "Contuct Us",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send"
+    },
+    "ProductPage": {
+        "title": "Products"
     }
+
 }

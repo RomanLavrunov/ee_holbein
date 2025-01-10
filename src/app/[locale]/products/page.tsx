@@ -1,4 +1,5 @@
 'use client'
+import { useTranslations } from 'next-intl';
 import Layout from '../../components/Layout';
 import ProductCard from '../../components/ProductCard';
 
@@ -8,9 +9,11 @@ const products = [
 ];
 
 export default function Products() {
+  const t = useTranslations('ProductPage');
+
   return (
     <Layout>
-      <h1>Our Products</h1>
+      <h1>{t('title')}</h1>
       <div>
         {products.map((product) => (
           <ProductCard key={product.name} product={product} />

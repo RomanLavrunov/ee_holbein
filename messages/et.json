@@ -1,14 +1,25 @@
 {
     "HomePage": {
         "header": {
-            "about": "Meist",
-            "products": "Tootevalik",
-            "news": "Uudised",
-            "contacts": "Kontaktid"
+            "about": "MEIST",
+            "products": "TOOTEVALIK",
+            "news": "UUDISED",
+            "contacts": "KONTAKTID"
         }
     },
     "AboutPage": {
         "title": "Meist",
         "description": "Lisateave meie ettevõtte kohta."
+    },
+    "ContactPage": {
+        "title": "Võtke meiega ühendust",
+        "name": "Nimi",
+        "email": "E-post",
+        "message": "Sõnum",
+        "send": "Saada"
+    },
+    "ProductPage": {
+        "title": "Tooted"
     }
+
 }
